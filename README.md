@@ -2,7 +2,7 @@
 
 A responsive portfolio website documenting my electronics graduation project: smart glasses that display multimeter measurements directly in the user’s field of view.
 
-[View the live website](https://tg20-smart-glasses.timpook11.chatgpt.site/)
+[tg20-smart-glasses](https://tg20-smart-glasses.timpook11.chatgpt.site/)
 
 ![TG-20 smart glasses prototype](public/tg20-hero.webp)
 

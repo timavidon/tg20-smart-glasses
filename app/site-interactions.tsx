@@ -108,9 +108,9 @@ export function HeaderDownloads() {
       aria-label="הורדות"
       aria-hidden={!isVisible}
     >
-      <a className="nav-download" href="/resume.pdf" download aria-label="הורדת קורות חיים" tabIndex={isVisible ? 0 : -1}>
+      <a className="nav-download" href="/resume.pdf?v=2026-10-29" download="Timothy-Avidon-CV.pdf" aria-label="הורדת קורות חיים ב־PDF" tabIndex={isVisible ? 0 : -1}>
         <span className="nav-file-kind" aria-hidden="true">PDF</span>
-        <span>קורת חיים</span>
+        <span>קורות חיים</span>
       </a>
       <a className="nav-download" href="/project-book.pdf" download aria-label="הורדת ספר הפרויקט" tabIndex={isVisible ? 0 : -1}>
         <span className="nav-file-kind" aria-hidden="true">PDF</span>

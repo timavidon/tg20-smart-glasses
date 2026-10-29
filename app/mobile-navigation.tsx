@@ -62,8 +62,8 @@ export default function MobileNavigation() {
             </a>
           ))}
         </nav>
-        <a className="mobile-resume" href="/resume.pdf" download onClick={() => setIsOpen(false)}>
-          הורדת קורות חיים
+        <a className="mobile-resume" href="/resume.pdf?v=2026-10-29" download="Timothy-Avidon-CV.pdf" onClick={() => setIsOpen(false)}>
+          קורות חיים · PDF
           <span aria-hidden="true">↓</span>
         </a>
         <a className="mobile-project-book" href="/project-book.pdf" download onClick={() => setIsOpen(false)}>

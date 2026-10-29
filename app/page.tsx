@@ -119,7 +119,7 @@ export default function Home() {
                 <div><strong>טימוטי אבידון</strong><span>בוגר הנדסאי אלקטרוניקה ומחשבים מאורט בראודה כרמיאל</span></div>
               </div>
               <div className="hero-actions">
-                <a className="button secondary" href="/resume.pdf" download>
+                <a className="button secondary" href="/resume.pdf?v=2026-10-29" download="Timothy-Avidon-CV.pdf">
                   <span className="button-icon" aria-hidden="true" dir="ltr">PDF</span>
                   <span className="button-copy"><strong>הורדת קורות חיים</strong><small>הורדת קובץ PDF</small></span>
                 </a>
@@ -389,7 +389,7 @@ export default function Home() {
               <p>פתוח לתפקידי הנדסאי אלקטרוניקה ומחשבים, תוכנה, פיתוח ורשתות.</p>
               <div className="contact-actions">
                 <a className="button primary" href="mailto:timavidon@gmail.com">שליחת מייל</a>
-                <a className="button dark-secondary" href="/resume.pdf" download>הורדת קורות חיים</a>
+                <a className="button dark-secondary" href="/resume.pdf?v=2026-10-29" download="Timothy-Avidon-CV.pdf">קורות חיים · PDF</a>
               </div>
             </div>
             <dl className="contact-list">
